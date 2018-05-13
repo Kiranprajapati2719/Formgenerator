@@ -1,0 +1,16 @@
+#sidebar{
+   position: fixed;
+   height: 100%;
+   width: 30%;
+   background-color: blue;
+   overflow-x: scroll;
+   overflow-y: scroll;
+}
+
+#content-generator{
+  position: fixed;
+  width: 70%;
+  height: 100%;
+  left:30%;
+  background-color: green;
+}
