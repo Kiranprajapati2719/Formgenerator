@@ -31,3 +31,7 @@
    font-weight: bold;
    word-spacing: 6px;
 }
+
+#search_options{
+   display: hidden;
+}
