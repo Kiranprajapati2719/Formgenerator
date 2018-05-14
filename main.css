@@ -1,33 +1,4 @@
-#sidebar{
-   position: fixed;
-   height: 100%;
-   width: 30%;
-   background-color: blue;
-   overflow-x: scroll;
-   overflow-y: scroll;
-}
-
-#content-generator{
-  position: fixed;
-  width: 70%;
-  height: 100%;
-  left:30%;
-  background-color: green;
-}
-
-#search{
-   margin-top: 15px;
-   margin-left: 5%;
-   margin-right:5%;
-   color: #565fa9;
-   font-weight: bold;
-   font-size:20px;
-   width: 90%;
-}
-
-#search::placeholder{
-  text-align:center;
-   color: crimson;
-   font-weight: bold;
-   word-spacing: 6px;
+* {
+  margin: 0;
+  padding: 0;
 }
