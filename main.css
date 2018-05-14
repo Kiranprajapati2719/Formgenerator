@@ -16,15 +16,18 @@
 }
 
 #search{
-  text-align: center;
    margin-top: 15px;
-   border-radius: 10px;
-  width: 100%;
-}
-#search::placeholder{
-   color: crimson;
+   margin-left: 5%;
+   margin-right:5%;
+   color: #565fa9;
    font-weight: bold;
    font-size:20px;
-   word-spacing: 12px;
-   letter-spacing: 5px;
+   width: 90%;
+}
+
+#search::placeholder{
+  text-align:center;
+   color: crimson;
+   font-weight: bold;
+   word-spacing: 6px;
 }
