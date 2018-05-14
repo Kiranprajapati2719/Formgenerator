@@ -14,3 +14,17 @@
   left:30%;
   background-color: green;
 }
+
+#search{
+  text-align: center;
+   margin-top: 15px;
+   border-radius: 10px;
+  width: 100%;
+}
+#search::placeholder{
+   color: crimson;
+   font-weight: bold;
+   font-size:20px;
+   word-spacing: 12px;
+   letter-spacing: 5px;
+}
