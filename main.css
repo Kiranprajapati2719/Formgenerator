@@ -3,6 +3,10 @@
   padding: 0;
 }
 
-#search_options{
-   display: hidden;
+#searchoptions{
+   display:none;
+   position: absolute;
+   border: 1px solid black;
+   z-index: 200;
+   top:40px;
 }
